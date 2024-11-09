@@ -5,6 +5,7 @@ import { Navbar } from "./components/navbar"
 import { Menu } from "./components/menu"
 import './main.css'
 import { Chef_gallery } from "./components/chef_gallery"
+import { Book_Table } from "./components/Book_Table"
 
 function App() {
  
@@ -18,6 +19,7 @@ function App() {
       <Chooseus/>
       <Menu/>
       <Chef_gallery/>
+      <Book_Table/>
     </div>
   )
 }
