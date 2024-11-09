@@ -6,6 +6,7 @@ import { Menu } from "./components/menu"
 import './main.css'
 import { Chef_gallery } from "./components/chef_gallery"
 import { Book_Table } from "./components/Book_Table"
+import { Contact } from "./components/contact"
 
 function App() {
  
@@ -20,6 +21,7 @@ function App() {
       <Menu/>
       <Chef_gallery/>
       <Book_Table/>
+      <Contact/>
     </div>
   )
 }
