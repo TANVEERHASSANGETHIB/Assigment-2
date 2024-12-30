@@ -59,7 +59,7 @@ export const Testimonials = () => {
                   </div>
                   <div className="col-lg-2 text-center">
                     <img
-                      src="assets/img/testimonials/testimonials-1.jpg"
+                      src="src/assets/img/testimonials/testimonials-1.jpg"
                       className="img-fluid testimonial-img"
                       alt="Saul Goodman"
                     />
@@ -96,7 +96,7 @@ export const Testimonials = () => {
                   </div>
                   <div className="col-lg-2 text-center">
                     <img
-                      src="assets/img/testimonials/testimonials-2.jpg"
+                      src="src/assets/img/testimonials/testimonials-2.jpg"
                       className="img-fluid testimonial-img"
                       alt="Sara Wilsson"
                     />
