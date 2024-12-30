@@ -4,6 +4,8 @@ import { Hero } from "./components/hero"
 import { Navbar } from "./components/navbar"
 import { Menu } from "./components/menu"
 import './main.css'
+import './main.js'
+
 import { Chef_gallery } from "./components/chef_gallery"
 import { Book_Table } from "./components/Book_Table"
 import { Contact } from "./components/contact"
@@ -24,6 +26,7 @@ function App() {
       <Menu/>
       <Chef_gallery/>
       <Book_Table/>
+      <Testimonials/>
       <Contact/>
     </div>
   )
